@@ -1,9 +1,21 @@
 {
   "version": "repo-1",
-  "timestamp": "SEED",
+  "timestamp": "2025-08-16T04:00:19.522453+00:00",
   "signals": [
-    {"symbol":"BTC/USD","action":"buy","confidence":0.61},
-    {"symbol":"ETH/USD","action":"hold","confidence":0.53},
-    {"symbol":"SOL/USD","action":"sell","confidence":0.41}
+    {
+      "symbol": "BTC/USD",
+      "action": "buy",
+      "confidence": 0.61
+    },
+    {
+      "symbol": "ETH/USD",
+      "action": "hold",
+      "confidence": 0.53
+    },
+    {
+      "symbol": "SOL/USD",
+      "action": "sell",
+      "confidence": 0.41
+    }
   ]
 }
