@@ -1,0 +1,16 @@
+{
+  "version": "seed-1",
+  "timestamp": "SEED",
+  "signals": [
+    {
+      "symbol": "BTC/USD",
+      "action": "hold",
+      "confidence": 0.5
+    },
+    {
+      "symbol": "ETH/USD",
+      "action": "hold",
+      "confidence": 0.5
+    }
+  ]
+}
